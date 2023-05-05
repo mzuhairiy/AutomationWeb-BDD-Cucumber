@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dt_zuhair2</name>
+   <tag></tag>
+   <elementGuidId>95c7fe17-d771-42a8-a481-940cfc9fb198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dt[(text() = 'zuhair2' or . = 'zuhair2')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>dt.chakra-stat__label.css-14go5ty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dt</value>
+      <webElementGuid>8df82097-2738-46b8-a7ee-151202e8a2ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stat__label css-14go5ty</value>
+      <webElementGuid>0281a65a-a5f9-40e6-9b37-4e0a4f1b6a7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>zuhair2</value>
+      <webElementGuid>830d9628-d2af-4062-b011-9034a790f096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-trlcwy&quot;]/div[@class=&quot;css-13pc7q0&quot;]/div[@class=&quot;chakra-stat css-1mbo1ls&quot;]/dl[1]/dt[@class=&quot;chakra-stat__label css-14go5ty&quot;]</value>
+      <webElementGuid>79fedb0d-0871-4b17-bf24-8139e5f43b96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/dl/dt</value>
+      <webElementGuid>d818d275-eb2c-4436-899e-3f36114203ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/following::dt[1]</value>
+      <webElementGuid>65cc4a53-d7d2-460b-81b0-8f859bb87fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='zuhair2'])[1]/following::dt[1]</value>
+      <webElementGuid>0d702cb3-147e-448f-ab11-f128bc61747d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hai'])[1]/preceding::dt[1]</value>
+      <webElementGuid>c12afecd-fd05-4fac-b90a-43a086a7e39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='penjualan'])[2]/preceding::dt[1]</value>
+      <webElementGuid>aadf9aed-d3fb-4e08-8c83-719698f7d7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dt</value>
+      <webElementGuid>04064aa5-04a4-4b73-ad5b-a9b5c67611ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dt[(text() = 'zuhair2' or . = 'zuhair2')]</value>
+      <webElementGuid>d75168d5-4d1b-4e4a-8e73-a3818af759f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
