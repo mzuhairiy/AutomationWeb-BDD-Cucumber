@@ -26,9 +26,17 @@ Feature: Login
     When User input valid <email> as email
     And User input valid <password> as password
     And User click login button
-    Then User verify login results
+    Then User verify login result
 
     Examples: 
       | email              | password  |
       | zuhair2@zuhair.com | zuhair123 |
       | zuhair@zuhair.com  | zuhair123 |
+
+  @Negative
+  Scenario: User failed login
+    Given User is on login page
+    When User input valid <email> as email
+    And User input valid <password> as password
+    And User click login button
+    Then User verify login result

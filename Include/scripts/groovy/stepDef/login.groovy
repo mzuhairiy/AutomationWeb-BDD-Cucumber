@@ -70,7 +70,7 @@ class login {
 	def user_click_login_button() {
 		WebUI.click(findTestObject('Object Repository/Login/button_login'))
 	}
-	
+
 	@Then("User verify login result")
 	def verify_login_result() {
 		WebUI.verifyElementPresent(findTestObject('Object Repository/Login/kasirAja Logo'), 0)
