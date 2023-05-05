@@ -26,7 +26,7 @@ Feature: Login
     When User input valid <email> as email
     And User input valid <password> as password
     And User click login button
-    Then User verify login result
+    Then User verify login results
 
     Examples: 
       | email              | password  |
